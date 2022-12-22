@@ -1,0 +1,94 @@
+{
+  "orders":
+  [
+    {
+        "id": 0,
+        "lenh": "Mua",
+        "ma": "MBB",
+        "tkDich": "Hưu trí",
+        "tkNguon": "Cho con",
+        "loaiLenh": "LO",
+        "gia": 16.9,
+        "trangThai": "Khớp",
+        "klKhop": 100,
+        "giaKhop": 16.6,
+        "choKhop": 0,
+        "%laiLo": -1.18,
+        "soTienLaiLo": 0.3,
+        "kenhDat": "App",
+        "thoiGian": "10:30"
+    },
+
+    {
+        "id": 1,
+        "lenh": "Bán",
+        "ma": "HPG",
+        "tkDich": "Hưu trí",
+        "tkNguon": "Mua xe",
+        "loaiLenh": "LO",
+        "gia": 19.0,
+        "trangThai": "Đã lên sàn",
+        "klKhop": 1000,
+        "giaKhop": 19.0,
+        "choKhop": 1000,
+        "%laiLo": -1.18,
+        "soTienLaiLo": 0.3,
+        "kenhDat": "Web",
+        "thoiGian": "11:20"
+    },
+
+    {
+        "id": 2,
+        "lenh": "Mua",
+        "ma": "MBB",
+        "tkDich": "Hưu trí",
+        "tkNguon": "Cho con",
+        "loaiLenh": "LO",
+        "gia": 16.9,
+        "trangThai": "Khớp",
+        "klKhop": 100,
+        "giaKhop": 16.6,
+        "choKhop": 0,
+        "%laiLo": -1.18,
+        "soTienLaiLo": 0.3,
+        "kenhDat": "Web",
+        "thoiGian": "11:30"
+    },
+
+    {
+        "id": 3,
+        "lenh": "Mua",
+        "ma": "MBB",
+        "tkDich": "Hưu trí",
+        "tkNguon": "Cho con",
+        "loaiLenh": "LO",
+        "gia": 16.9,
+        "trangThai": "Khớp",
+        "klKhop": 100,
+        "giaKhop": 16.6,
+        "choKhop": 0,
+        "%laiLo": -1.18,
+        "soTienLaiLo": 0.3,
+        "kenhDat": "App",
+        "thoiGian": "11:40"
+    },
+
+    {
+        "id": 4,
+        "lenh": "Bán",
+        "ma": "MBB",
+        "tkDich": "Hưu trí",
+        "tkNguon": "Cho con",
+        "loaiLenh": "LO",
+        "gia": 16.9,
+        "trangThai": "Khớp",
+        "klKhop": 100,
+        "giaKhop": 16.6,
+        "choKhop": 0,
+        "%laiLo": -1.18,
+        "soTienLaiLo": 0.3,
+        "kenhDat": "App",
+        "thoiGian": "12:00"
+    }
+  ]
+}
