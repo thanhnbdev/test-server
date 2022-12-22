@@ -13,7 +13,7 @@
         "klKhop": 100,
         "giaKhop": 16.6,
         "choKhop": 0,
-        "%laiLo": -1.18,
+        "laiLo": -1.18,
         "soTienLaiLo": 0.3,
         "kenhDat": "App",
         "thoiGian": "10:30"
@@ -31,7 +31,7 @@
         "klKhop": 1000,
         "giaKhop": 19.0,
         "choKhop": 1000,
-        "%laiLo": -1.18,
+        "laiLo": -1.18,
         "soTienLaiLo": 0.3,
         "kenhDat": "Web",
         "thoiGian": "11:20"
@@ -49,7 +49,7 @@
         "klKhop": 100,
         "giaKhop": 16.6,
         "choKhop": 0,
-        "%laiLo": -1.18,
+        "laiLo": -1.18,
         "soTienLaiLo": 0.3,
         "kenhDat": "Web",
         "thoiGian": "11:30"
@@ -67,7 +67,7 @@
         "klKhop": 100,
         "giaKhop": 16.6,
         "choKhop": 0,
-        "%laiLo": -1.18,
+        "laiLo": -1.18,
         "soTienLaiLo": 0.3,
         "kenhDat": "App",
         "thoiGian": "11:40"
@@ -85,7 +85,7 @@
         "klKhop": 100,
         "giaKhop": 16.6,
         "choKhop": 0,
-        "%laiLo": -1.18,
+        "laiLo": -1.18,
         "soTienLaiLo": 0.3,
         "kenhDat": "App",
         "thoiGian": "12:00"
